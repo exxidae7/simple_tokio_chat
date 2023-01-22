@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/exidae7/Documents/rust/task_management/TaskManagement/target/debug/build/typenum-a181edca4f70d601/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/exidae7/Documents/rust/task_management/TaskManagement/target/debug/build/typenum-a181edca4f70d601/out/op.rs

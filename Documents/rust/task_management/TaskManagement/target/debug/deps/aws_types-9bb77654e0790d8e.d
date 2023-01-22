@@ -1,0 +1,17 @@
+/Users/exidae7/Documents/rust/task_management/TaskManagement/target/debug/deps/aws_types-9bb77654e0790d8e.rmeta: /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/lib.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/app_name.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/build_metadata.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/config.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/credentials/mod.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/credentials/credentials_impl.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/credentials/provider.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/os_shim_internal.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/region.rs /Users/exidae7/Documents/rust/task_management/TaskManagement/target/debug/build/aws-types-f4ef70a881691b73/out/build_env.rs
+
+/Users/exidae7/Documents/rust/task_management/TaskManagement/target/debug/deps/aws_types-9bb77654e0790d8e.d: /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/lib.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/app_name.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/build_metadata.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/config.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/credentials/mod.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/credentials/credentials_impl.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/credentials/provider.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/os_shim_internal.rs /Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/region.rs /Users/exidae7/Documents/rust/task_management/TaskManagement/target/debug/build/aws-types-f4ef70a881691b73/out/build_env.rs
+
+/Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/lib.rs:
+/Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/app_name.rs:
+/Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/build_metadata.rs:
+/Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/config.rs:
+/Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/credentials/mod.rs:
+/Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/credentials/credentials_impl.rs:
+/Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/credentials/provider.rs:
+/Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/os_shim_internal.rs:
+/Users/exidae7/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-types-0.8.0/src/region.rs:
+/Users/exidae7/Documents/rust/task_management/TaskManagement/target/debug/build/aws-types-f4ef70a881691b73/out/build_env.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.8.0
+# env-dep:OUT_DIR=/Users/exidae7/Documents/rust/task_management/TaskManagement/target/debug/build/aws-types-f4ef70a881691b73/out
